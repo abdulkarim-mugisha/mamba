@@ -3,6 +3,7 @@
 // The Module object: Our interface to the outside world. We import
 // and export values on it. There are various ways Module can be used:
 // 1. Not defined. We create it here
+
 // 2. A function parameter, function(Module) { ..generated code.. }
 // 3. pre-run appended it, var Module = {}; ..generated code..
 // 4. External script tag defines var Module.
